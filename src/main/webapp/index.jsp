@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: yelow;
 }
 
 h1 {
@@ -18,8 +18,8 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+<h1>THIS IS A WAR FILE DEPLOYMENT PROCESS</h1>
+<p>HOW TO DEPLOY WAR FILE IN A TOMCAT USING JENKINS.</p>
 
 </body>
 </html>
